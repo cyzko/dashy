@@ -111,13 +111,6 @@
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Singebob">
-            <img src="https://avatars.githubusercontent.com/u/24290044?v=4" width="80;" alt="Singebob"/>
-            <br />
-            <sub><b>Jeremy Chauvin</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/BeginCI">
             <img src="https://avatars.githubusercontent.com/u/57495754?v=4" width="80;" alt="BeginCI"/>
             <br />
@@ -137,15 +130,15 @@
             <br />
             <sub><b>DeepSource Bot</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/FormatToday">
             <img src="https://avatars.githubusercontent.com/u/20515769?v=4" width="80;" alt="FormatToday"/>
             <br />
             <sub><b>FormatToday</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/Compunctus">
             <img src="https://avatars.githubusercontent.com/u/5058853?v=4" width="80;" alt="Compunctus"/>
@@ -158,6 +151,13 @@
             <img src="https://avatars.githubusercontent.com/u/791091?v=4" width="80;" alt="b1thunt3r"/>
             <br />
             <sub><b>Ishan Jain</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Singebob">
+            <img src="https://avatars.githubusercontent.com/u/24290044?v=4" width="80;" alt="Singebob"/>
+            <br />
+            <sub><b>Jeremy Chauvin</b></sub>
         </a>
     </td>
     <td align="center">
