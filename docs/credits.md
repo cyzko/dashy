@@ -186,7 +186,7 @@
         <a href="https://github.com/royshreyaa">
             <img src="https://avatars.githubusercontent.com/u/139828242?v=4" width="80;" alt="royshreyaa"/>
             <br />
-            <sub><b>royshreyaa</b></sub>
+            <sub><b>Royshreyaa</b></sub>
         </a>
     </td>
     <td align="center">
